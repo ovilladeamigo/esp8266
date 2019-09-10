@@ -1,0 +1,4 @@
+https://github.com/tzapu/WiFiManager
+https://www.arduinolibraries.info/
+
+http://laraspberrypi.blogspot.com/2017/10/pimatic-control-domotico-en-casa.html

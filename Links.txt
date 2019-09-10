@@ -1,0 +1,3 @@
+usermod -a -G dialout ovilladeamigo
+
+https://programarfacil.com/podcast/nodemcu-tutorial-paso-a-paso/ 
